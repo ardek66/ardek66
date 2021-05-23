@@ -15,3 +15,13 @@
 + [[https://ardek66.itch.io/door-o-bot]]
 + [[https://github.com/ardek66/crownbox]] (Kinda dead)
 + [[https://github.com/ardek66/liblqr-nim]]
+
+** Donations
+I spend a lot of my time working on projects, doing the best I can do to fix bugs and improve the readability and efficiency of my code.
+I do not expect any recompensation, as I do it mostly for myself and self-development.
+
+If you want, you can donate any amount of money to the following accounts. I will be very grateful :).
+
+[[https://liberapay.com/IDF/donate][https://liberapay.com/assets/widgets/donate.svg]]
+
+XMR: 48xEfmMBVcpTvkU3ZpgEv2adm75h3qwq3UpPDoL1T8bHfwVzgmK1Y1BZZYzrXp2MG4AFnq8w54SLgSysZQu94iSPL1yM1fj
