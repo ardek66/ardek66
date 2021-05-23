@@ -1,0 +1,17 @@
+** Stuff about me
++ Name: idf(unrelated to Israel)
++ Timezones: UTC+2 (UTC+3 summer time)
++ I can speak Romanian and English.
++ I mainly use Nim, C and Lisp, but I'm quick to learn other programming languages.
++ I can code in Javascript but I would rather use compilers/transpilers for it.
++ I like contributing to other open-source projects as well as working on my own.
++ I tend to focus on optimisation and getting an efficient solution from the start.
++ I basically live in Emacs.
++ I use NixOS where I can.
++ Experience in sysadmin and servers from repurposing old devices in my home to homeservers.
+
+*** Projects
++ [[https://gemi.nim.town/index.gemini]] (gemini://gemi.nim.town)
++ [[https://ardek66.itch.io/door-o-bot]]
++ [[https://github.com/ardek66/crownbox]] (Kinda dead)
++ [[https://github.com/ardek66/liblqr-nim]]
