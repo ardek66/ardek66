@@ -22,6 +22,6 @@ I do not expect any recompensation, as I do it mostly for myself and self-develo
 
 If you want, you can donate any amount of money to the following accounts. I will be very grateful :).
 
-[[https://liberapay.com/IDF/donate][https://liberapay.com/assets/widgets/donate.svg]]
+# [[https://liberapay.com/IDF/donate][https://liberapay.com/assets/widgets/donate.svg]]
 
-XMR: 48xEfmMBVcpTvkU3ZpgEv2adm75h3qwq3UpPDoL1T8bHfwVzgmK1Y1BZZYzrXp2MG4AFnq8w54SLgSysZQu94iSPL1yM1fj
+XMR: 83h5ZW6y4ThAuniZqm769PKLcWTF9qHiTKyCxyXm2X8U5tatmhaTpxGHZRBkbsecLwSaEs7Qz9EApP4dtLoCc3FvVZHfTGZ
